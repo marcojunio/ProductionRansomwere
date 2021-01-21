@@ -1,0 +1,7 @@
+C:\Users\Worm\source\repos\launcher2.0\launcher2.0\bin\Debug\DCQPKX.exe
+C:\Users\Worm\source\repos\launcher2.0\launcher2.0\bin\Debug\DCQPKX.pdb
+C:\Users\Worm\source\repos\launcher2.0\launcher2.0\obj\Debug\launcher2._0.launcher2.resources
+C:\Users\Worm\source\repos\launcher2.0\launcher2.0\obj\Debug\launcher2._0.Properties.Resources.resources
+C:\Users\Worm\source\repos\launcher2.0\launcher2.0\obj\Debug\launcher2.0.csproj.GenerateResource.cache
+C:\Users\Worm\source\repos\launcher2.0\launcher2.0\obj\Debug\DCQPKX.exe
+C:\Users\Worm\source\repos\launcher2.0\launcher2.0\obj\Debug\DCQPKX.pdb

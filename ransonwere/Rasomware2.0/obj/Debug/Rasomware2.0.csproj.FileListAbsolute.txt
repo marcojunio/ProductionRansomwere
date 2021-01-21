@@ -1,0 +1,16 @@
+C:\Users\Worm\source\repos\Rasomware2.0\Rasomware2.0\bin\Debug\Rasomware2.0.exe
+C:\Users\Worm\source\repos\Rasomware2.0\Rasomware2.0\bin\Debug\Rasomware2.0.pdb
+C:\Users\Worm\source\repos\Rasomware2.0\Rasomware2.0\obj\Debug\Rasomware2._0.Properties.Resources.resources
+C:\Users\Worm\source\repos\Rasomware2.0\Rasomware2.0\obj\Debug\Rasomware2.0.csproj.GenerateResource.cache
+C:\Users\Worm\source\repos\Rasomware2.0\Rasomware2.0\obj\Debug\Rasomware2.0.exe
+C:\Users\Worm\source\repos\Rasomware2.0\Rasomware2.0\obj\Debug\Rasomware2.0.pdb
+C:\Users\Worm\source\repos\Rasomware2.0\Rasomware2.0\obj\Debug\Rasomware2._0.Ransomware2.resources
+C:\Users\Worm\source\repos\Rasomware2.0\Rasomware2.0\obj\Debug\Rasomware2.0.csprojAssemblyReference.cache
+C:\Users\marco\Desktop\ProductionRansomwere\ransonwere\Rasomware2.0\bin\Debug\Rasomware2.0.exe
+C:\Users\marco\Desktop\ProductionRansomwere\ransonwere\Rasomware2.0\bin\Debug\Rasomware2.0.pdb
+C:\Users\marco\Desktop\ProductionRansomwere\ransonwere\Rasomware2.0\obj\Debug\Rasomware2._0.Ransomware2.resources
+C:\Users\marco\Desktop\ProductionRansomwere\ransonwere\Rasomware2.0\obj\Debug\Rasomware2._0.Properties.Resources.resources
+C:\Users\marco\Desktop\ProductionRansomwere\ransonwere\Rasomware2.0\obj\Debug\Rasomware2.0.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\ProductionRansomwere\ransonwere\Rasomware2.0\obj\Debug\Rasomware2.0.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\ProductionRansomwere\ransonwere\Rasomware2.0\obj\Debug\Rasomware2.0.exe
+C:\Users\marco\Desktop\ProductionRansomwere\ransonwere\Rasomware2.0\obj\Debug\Rasomware2.0.pdb
